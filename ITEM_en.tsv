@@ -896,14 +896,14 @@ ITEM_20150317_000967	Since the Great Plant Cataclysm, many ingredients from mons
 ITEM_20150317_000968	Forest Leather Boots
 ITEM_20150317_000969	There has been some progress in extracting the magic properties from the plant monsters and applying it to the armor.
 ITEM_20150317_000970	Forest Leather Pants
-ITEM_20150317_000971	Plant monsters also offers leatherlike materials as much as the animal monsters. And this is the example of its practical application.
+ITEM_20150317_000971	Plant monsters also offers leather like materials as much as the animal monsters. And this is the example of its practical application.
 ITEM_20150317_000972	Forest Leather Armor
 ITEM_20150317_000973	It is lighter than other boots with similar defense.
 ITEM_20150317_000974	Grima Pants
 ITEM_20150317_000975	It doesn't feel as bad for a pants made from wooden, non-fiber material.
 ITEM_20150317_000976	Grima Robe
 ITEM_20150317_000977	Top [Cloth]
-ITEM_20150317_000978	If you expected a defense similar to a cloth shirt, you would be surprised at leatherlike defense.
+ITEM_20150317_000978	If you expected a defense similar to a cloth shirt, you would be surprised at leather like defense.
 ITEM_20150317_000979	Veris Gloves
 ITEM_20150317_000980	If you don't have any aversion to insects, this is a good piece to not only protect yourself but also holding a weapon.
 ITEM_20150317_000981	Veris Boots
@@ -2039,7 +2039,7 @@ ITEM_20150317_002145	Rafflet Flower
 ITEM_20150317_002146	Tanu Stem
 ITEM_20150317_002147	Thorny thick stem. Not suitable for eating. Obtained from Tanu.
 ITEM_20150317_002148	Beetow Feelers
-ITEM_20150317_002149	Greenish feelers. Also used as a string due to its leatherlike toughness. Obtained from Beetow.
+ITEM_20150317_002149	Greenish feelers. Also used as a string due to its leather like toughness. Obtained from Beetow.
 ITEM_20150317_002150	Spore Pocket of Maize
 ITEM_20150317_002151	Ultanun Feather
 ITEM_20150317_002152	Feather of a common bird. Obtained from Ultanun.
@@ -2669,7 +2669,7 @@ ITEM_20150317_002803	Contains instructions on how to craft an item. Access the R
 ITEM_20150317_002804	Skill Scroll
 ITEM_20150317_002805	It teleports you to another Goddess Statue. Current location will be saved.
 ITEM_20150317_002806	Orb of Nostalgia
-ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}Cooldown: 15 minutes
+ITEM_20150317_002807	A jewel that does teleport you to a saved location instantly . {nl}Cooldown: 15 minutes
 ITEM_20150317_002808	Klaipeda Warpstone
 ITEM_20150317_002809	A stone that will transport you to Klaipeda. Right-click to use. Cooldown: 20 minutes
 ITEM_20150317_002810	Scroll of Unsealing the Crystal Mine 1
@@ -2711,7 +2711,7 @@ ITEM_20150317_002845	Vubbe Serum
 ITEM_20150317_002846	Serum collected from the blood of Vubbes. It is a material requested by Vaidotas to the Commander.
 ITEM_20150317_002847	Crystal
 ITEM_20150317_002848	A unequal crystal fragement. A material requested by Vidotas.
-ITEM_20150317_002849	Serum colleced from the blood of dead Vubbes.
+ITEM_20150317_002849	Serum collected from the blood of dead Vubbes.
 ITEM_20150317_002850	A key of the native soldier
 ITEM_20150317_002851	A key to release the seal of the King Tomb
 ITEM_20150317_002852	King Tomb 2nd Floor Lever
@@ -2842,7 +2842,7 @@ ITEM_20150317_002989	Lifetime research recordings by Jonas.
 ITEM_20150317_002990	Piece of Record on Mysterious Pattern (2)
 ITEM_20150317_002991	Medicine for Jonas
 ITEM_20150317_002992	Dabio obtained this medicine for Jonas. Very effective in treating senility.
-ITEM_20150317_002993	Scroll of Magic Circle of Absorbtion
+ITEM_20150317_002993	Scroll of Magic Circle of Absorption
 ITEM_20150317_002994	Replenishes your HP when a monster is defeated above the magic circle
 ITEM_20150317_002995	Purification Crystal for Crystal Mine
 ITEM_20150317_002996	Explosive for Opening up a Secret Passage
@@ -2907,11 +2907,11 @@ ITEM_20150317_003054	Spirit crystals from Owl statues swallowed by monster.
 ITEM_20150317_003055	Spirit Essence
 ITEM_20150317_003056	Warrior's Essence. It is very necessary to give Sequoia the very best bit.
 ITEM_20150317_003057	Blue Soul Stone
-ITEM_20150317_003058	The first soul stone includs strong grudge of corrupt person.
+ITEM_20150317_003058	The first soul stone includes strong grudge of corrupt person.
 ITEM_20150317_003059	Red Soul Stone
-ITEM_20150317_003060	The second soul stone includs strong grudge of corrupt person.
+ITEM_20150317_003060	The second soul stone includes strong grudge of corrupt person.
 ITEM_20150317_003061	Evil Soul Stone
-ITEM_20150317_003062	The third soul stone includs strong grudge of corrupt person.
+ITEM_20150317_003062	The third soul stone includes strong grudge of corrupt person.
 ITEM_20150317_003063	A sign of owl who is leading spirits.
 ITEM_20150317_003064	A sign that anger owl had.
 ITEM_20150317_003065	Spiritual Stick
@@ -2920,7 +2920,7 @@ ITEM_20150317_003067	Miduja's larva keeping memories of spirit.
 ITEM_20150317_003068	Lost Luggage
 ITEM_20150317_003069	A luggage that dead merchant had. The merchant spirit is obsessing the luggage.
 ITEM_20150317_003070	Torn spell scroll
-ITEM_20150317_003071	A scroll for protection. It seems the scolar spirit died before using this spell scroll.
+ITEM_20150317_003071	A scroll for protection. It seems the scholar spirit died before using this spell scroll.
 ITEM_20150317_003072	A copy of pilgrim monument
 ITEM_20150317_003073	A rubbed copy of monument that female explorer was looking for.
 ITEM_20150317_003074	Burned Branch
@@ -3121,7 +3121,7 @@ ITEM_20150317_003270	Betwixt and between, roughly burned crystal.
 ITEM_20150317_003271	Flame Charm
 ITEM_20150317_003272	A burning charm. Because it was in the monster's stomach, it is wet and smell bad.
 ITEM_20150317_003273	Silver Dye for Magical Tattoo
-ITEM_20150317_003274	Silver dye used for tatoo of Shaiman shaw. It is relatively easy to get.
+ITEM_20150317_003274	Silver dye used for tattoo of Shaiman shaw. It is relatively easy to get.
 ITEM_20150317_003275	Cordelier's Parchment
 ITEM_20150317_003276	A parchment Cordelier gave. Although coal powder is sticking in there, it is hard to see the letters due to dark parchment.
 ITEM_20150317_003279	Crystal of flame
@@ -3161,7 +3161,7 @@ ITEM_20150317_003314	Operation Map
 ITEM_20150317_003316	Thorn Pollen
 ITEM_20150317_003317	A useful thorn pollen to kick out evil things.
 ITEM_20150317_003318	Fixed iron of Lever Handle 
-ITEM_20150317_003319	Fixed iron to hold completly the handle of cable car's leaver
+ITEM_20150317_003319	Fixed iron to hold completely the handle of cable car's leaver
 ITEM_20150317_003320	Gear
 ITEM_20150317_003321	Parts shaped wheel that monsters possessed. It is clearly a part of cable car.
 ITEM_20150317_003322	Plateau Sugar Beets
@@ -3181,13 +3181,13 @@ ITEM_20150317_003335	A legend divine sphere to defeat Gesti. Not now.
 ITEM_20150317_003336	A legend divine sphere to defeat Gesti. It needs to be recharge to use.
 ITEM_20150317_003337	A legend divine sphere to defeat Gesti. Ready to use.
 ITEM_20150317_003338	Purification shaman doll summon scroll
-ITEM_20150317_003339	A catalyst contained the shaman doll. The shaman doll will be activited when use.
+ITEM_20150317_003339	A catalyst contained the shaman doll. The shaman doll will be activated when use.
 ITEM_20150317_003340	Ignition
 ITEM_20150317_003341	An ignition found in a beacon mound
 ITEM_20150317_003342	Counterfeit
 ITEM_20150317_003343	A counterfeit passed by Kevin. It needs more time to complete.
 ITEM_20150317_003344	Divine Crystal
-ITEM_20150317_003345	When use it to monsters then the monster's power should be descreased.
+ITEM_20150317_003345	When use it to monsters then the monster's power should be decreased.
 ITEM_20150317_003346	Broken altarpiece
 ITEM_20150317_003347	Broken altarpiece of Cathedral second floor
 ITEM_20150317_003348	Potion of small light
@@ -3236,7 +3236,7 @@ ITEM_20150317_003395	It has a great effect
 ITEM_20150317_003396	Peltasta Shield
 ITEM_20150317_003397	A shield requested by Master Peltasta to Master Fletcher
 ITEM_20150317_003398	Dock permit
-ITEM_20150317_003399	A necesasary permission need the ship to enter the port.
+ITEM_20150317_003399	A necessary permission need the ship to enter the port.
 ITEM_20150317_003400	A navigator's chart
 ITEM_20150317_003401	A necessary map to sail. It contains the ocean curent and wind's direction.
 ITEM_20150317_003402	Contract
@@ -3253,7 +3253,7 @@ ITEM_20150317_003415	A temporary tube can shoot the a nervous poison
 ITEM_20150317_003416	Synthetic poison
 ITEM_20150317_003417	A special poison of Stoulet's inside. It is only react with the nervous poison of temporary tube.
 ITEM_20150317_003418	Phalanx Tactics
-ITEM_20150317_003419	An easy tactice for beginner of Phalanx. It is hard unexperienced persone to remember it.
+ITEM_20150317_003419	An easy tactic for beginner of Phalanx. It is hard inexperienced person to remember it.
 ITEM_20150317_003420	Flare
 ITEM_20150317_003421	A flare mainly used by Scout. It is used to find hidden monsters.
 ITEM_20150317_003422	Stone Rubbing
@@ -3267,7 +3267,7 @@ ITEM_20150317_003431	Feel so bad
 ITEM_20150317_003432	Beak of Harpeia
 ITEM_20150317_003433	Beak of Harpeia. Very sharp.
 ITEM_20150317_003434	Smokescreen bullets
-ITEM_20150317_003435	It is easy to seperate the enemy in a crisis. Boom!
+ITEM_20150317_003435	It is easy to separate the enemy in a crisis. Boom!
 ITEM_20150317_003436	Provocation of Orb
 ITEM_20150317_003437	Superior beads that taunt enemies 
 ITEM_20150317_003438	Capture Posunjuru
@@ -3283,7 +3283,7 @@ ITEM_20150317_003447	Use of skill items
 ITEM_20150317_003448	Sap of Gorge Metos
 ITEM_20150317_003449	Liquid extracted from the valley metsulfuron. It is used as a material for alleviating symptoms.
 ITEM_20150317_003450	Record of relics
-ITEM_20150317_003451	A record of relice written as Kepact was told. Just record the shape and size.
+ITEM_20150317_003451	A record of relic written as Kepact was told. Just record the shape and size.
 ITEM_20150317_003452	Memorial rubbings
 ITEM_20150317_003453	Rubbings requested by the Epigraphist Smith
 ITEM_20150317_003454	A torn letter found from the dead body. Let's find the place to give the relics.
@@ -3317,13 +3317,13 @@ ITEM_20150317_003482	Bag contained with money fully. Just what Reaper was doing?
 ITEM_20150317_003483	Note of messenger
 ITEM_20150317_003484	Note of messenger. There are written about a big threat.
 ITEM_20150317_003485	Saibun
-ITEM_20150317_003486	There are written about the contents to deal with the people who dided to research the Royaltomb.
+ITEM_20150317_003486	There are written about the contents to deal with the people who decided to research the Royaltomb.
 ITEM_20150317_003487	A book sheet of Wizard
 ITEM_20150317_003488	A book sheet of wizard scattered around. The author is Shaman Show. 
 ITEM_20150317_003489	Labeling of pilgrims
 ITEM_20150317_003490	Labeling of pilgrims swallowed by monster. There are no owner nearby.
 ITEM_20150317_003491	Cathedral Marble Parts
-ITEM_20150317_003492	Marble Parts heavily carried by chthedral monster
+ITEM_20150317_003492	Marble Parts heavily carried by cathedral monster
 ITEM_20150317_003493	Book narrator
 ITEM_20150317_003494	Bookshelf that Koben keep the box
 ITEM_20150317_003495	The key to secret box
@@ -3341,7 +3341,7 @@ ITEM_20150317_003506	Wood that required to fix the training wooden seal
 ITEM_20150317_003507	Rope
 ITEM_20150317_003508	Rope that required to fix the scarecrow
 ITEM_20150317_003509	Fragments of memory
-ITEM_20150317_003510	Beed that can completly make the spell for defeating the Gaigalas to wake the asleep Owl.
+ITEM_20150317_003510	Beed that can completely make the spell for defeating the Gaigalas to wake the asleep Owl.
 ITEM_20150317_003511	Unstable Holy Spear. It can not be used with current situation.
 ITEM_20150317_003512	Huge tusks
 ITEM_20150317_003514	Natural agate stone
@@ -3355,16 +3355,16 @@ ITEM_20150317_003523	Integer of Stone Whale
 ITEM_20150317_003524	Integer filled with the grudge of clean soul
 ITEM_20150317_003525	The Large Hardwood 
 ITEM_20150317_003526	Material requested by the sculptor Tesla
-ITEM_20150317_003529	Payment Offering corved with sign of Pardoner
+ITEM_20150317_003529	Payment Offering covered with sign of Pardoner
 ITEM_20150317_003530	Pardoner donation bag your writing has been pressed
 ITEM_20150317_003531	Mali seeds
 ITEM_20150317_003532	Mali seeds by defeated Mali
 ITEM_20150317_003533	A shaman doll summon scroll for destroying
 ITEM_20150317_003534	A scroll to summon the destroying shaman doll
 ITEM_20150317_003535	Piece of broken barrier
-ITEM_20150317_003536	Piece of broken Mazas rest place. Is it possilbe to repair?
+ITEM_20150317_003536	Piece of broken Mazas rest place. Is it possible to repair?
 ITEM_20150317_003537	Fat of Mallardu
-ITEM_20150317_003538	A material to wake up the Nepenthes in anyway. It dosen't be fire under this form.
+ITEM_20150317_003538	A material to wake up the Nepenthes in anyway. It doesn't be fire under this form.
 ITEM_20150317_003539	A fat to be burned well
 ITEM_20150317_003540	A fat of Mallardu has been saved for burning. Wake up the Nepenthes to use.
 ITEM_20150317_003541	A sap with the spiritual power
@@ -3390,7 +3390,7 @@ ITEM_20150317_003560	Once used the scroll, you can distinguish the Hogma which h
 ITEM_20150317_003561	Necklace looks shabby
 ITEM_20150317_003562	My love..to Ruklys..from Lidia. has written.
 ITEM_20150317_003563	Skirt of Kid Demons
-ITEM_20150317_003564	A skirt obtaied to defeat both Pawndel and Pawnd. It is a material to make the demon transformation scroll.
+ITEM_20150317_003564	A skirt obtained to defeat both Pawndel and Pawnd. It is a material to make the demon transformation scroll.
 ITEM_20150317_003565	Soul of Pawnd 
 ITEM_20150317_003566	Soul of demons collected to understand Demon Monsters
 ITEM_20150317_003567	Soul of Pawndel 
@@ -3398,9 +3398,9 @@ ITEM_20150317_003568	Soul of Corylus
 ITEM_20150317_003569	Bucket 
 ITEM_20150317_003570	Bucket used to put the water. It seems can tie the rope.
 ITEM_20150317_003571	Long line 
-ITEM_20150317_003572	A fairiy long line. It seems can tie something. 
+ITEM_20150317_003572	A fairly long line. It seems can tie something. 
 ITEM_20150317_003573	Demon Transformation Scroll
-ITEM_20150317_003574	Use of this scroll can tranfrom to Panwndel or Pawnd.
+ITEM_20150317_003574	Use of this scroll can transform to Panwndel or Pawnd.
 ITEM_20150317_003575	Crystal of Light
 ITEM_20150317_003576	A crystal with the full spirit of light made of the crystal of the processed strength. It is able to release the demon barrier of front entrance of Cathedral.
 ITEM_20150317_003577	Muddy necklace
@@ -3410,7 +3410,7 @@ ITEM_20150317_003580	Wood arrow carried by High Vubbe Archer. It seems useful fo
 ITEM_20150317_003581	Material of crude exploration group to find the first part of stone statue. It needs to be processed with enough amount.
 ITEM_20150317_003582	Crude exploration bar
 ITEM_20150317_003583	Exploration bar that to find the first part of tombstone which has been hidden in somewhere.
-ITEM_20150317_003584	Part corved with dust
+ITEM_20150317_003584	Part covered with dust
 ITEM_20150317_003585	Part that epigraphist Raymond though it is second part of tombstone. We don't know whether there are second part is placed or not.
 ITEM_20150317_003586	Sap of short tree
 ITEM_20150317_003587	Sap of short tree asked by solicitor Edang. It has high value as an effect to cure.
@@ -3461,7 +3461,7 @@ ITEM_20150317_003631	Heated Arrow Point by using the Infrobuck
 ITEM_20150317_003632	Long Arm Tree Charcoal
 ITEM_20150317_003633	Charcoal obtained to defeat the Long Arm Tree
 ITEM_20150317_003634	Soi bomb
-ITEM_20150317_003635	Bomb that can be attacted to the Long Arm Tree
+ITEM_20150317_003635	Bomb that can be attracted to the Long Arm Tree
 ITEM_20150317_003636	Revelation possessed by Bramble. Take it to Saule goddess as still unreadable.
 ITEM_20150317_003637	Guard Awakening Device
 ITEM_20150317_003638	It is said that awake the asleep Boowook
